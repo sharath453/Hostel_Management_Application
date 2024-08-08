@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact [Vinayakumara S S](mailto:vinaykumarss904@gmail.com).
+For any inquiries or support, please contact [Sharath's Mail](mailto:alsharath66@gmail.com).
 
 ## App Images
 
